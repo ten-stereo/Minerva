@@ -1,7 +1,7 @@
 # Jerod Michel's Syntax and Semantics
 
 ###  About Jerod Michel
-My interests include combinatorics, information theory and linguistics. I am currently a postdoctoral researcher at Southern University of Science and Technology in Shenzhen, China. This personal blog is the beginning of a discussion on syntax and semantics of both computer languages and natural languages.
+My interests include combinatorics, information theory and linguistics. I am currently a Lecturer (TT) in the Mathematics Department at Nanjing Univeristy of Aeronautics and Astronautics, Nanjing, China. This repo is the beginning of a discussion on syntax and semantics of both computer languages and natural languages.
 
     > The familiar saying that the exception proves the rule contains a good deal of 
     > wisdom, though from the standpoint of formal logic it became an absurdity as 
